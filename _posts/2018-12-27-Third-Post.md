@@ -1,7 +1,7 @@
 ---
 title : SSAFY Start Camp 챗봇 퀘스트 - Troll Finder
 ---
-서울_9_성우진, https://github.com/sungwoojin <br />
+서울_9_성우진, https://github.com/sungwoojin/ <br />
 
 # I. 스펙(Specification)<br />
 <br />
