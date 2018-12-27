@@ -1,10 +1,6 @@
 ---
-title : 자기 주도 학습
+title : 팀 소개 프레젠테이션 링크 걸기
 ---
 
-# 주제 1
-
-연습
-
-# 주제 2
-
+# 사육신 소개 링크
+https://gitpitch.com/sungwoojin/public
